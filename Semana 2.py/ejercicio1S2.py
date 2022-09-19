@@ -1,5 +1,5 @@
 n1 = float(input ("Escribe un número"))
-n2 = float(input ("Escribe otro número"))
+n2 = float(input ("Escribe un número"))
 Is_valid = True
 
 if n1.isnumeric():

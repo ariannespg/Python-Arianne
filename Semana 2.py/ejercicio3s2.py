@@ -1,4 +1,4 @@
-num1 = (input ("Please write a number"))
+num1 = (input ("Por favor escribe un número"))
 
 if num1.isnumeric():
     num1 = int(num1)
