@@ -1,6 +1,6 @@
-hours_worked = float(input ("How many hours have you worked this week"))
+hours_worked = float(input ("How many hours have you worked this week?"))
 
-hourly_wage = float(input ("what is your hourly wage"))
+hourly_wage = float(input ("what is your hourly wage?"))
 
 your_payment = hours_worked * hourly_wage
 
